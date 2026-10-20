@@ -1,0 +1,10 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
+
+# Temporary files & reports
+*.tmp
+*.log
+INVENTARIO_*.md
